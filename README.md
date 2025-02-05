@@ -17,6 +17,3 @@ Open a terminal and execute the command:
 
 python3 ball_bounce.py
 
-## *Author Name*
-<!--Remove the below lines and add yours -->
-Ayush Shaw
